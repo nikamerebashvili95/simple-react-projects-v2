@@ -1,4 +1,4 @@
-# react-projects-7-slider
+# react-projects-07-slider
 
 #### IN ACTION
 
